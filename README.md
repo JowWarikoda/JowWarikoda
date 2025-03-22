@@ -1,11 +1,12 @@
 # Sobre Mim
 
-Olá! 👋 Meu nome é Jow Warikoda, estou no momento cursando Análise e Desenvolvimento de Software, e atualmente estou no 2º Semestre. Neste momento estou focando meus estudos na área do Front-End com HTML, CSS e JavaScript. Estou procurando me aperfeiçoar cada vez mais, para me tornar um futuro Desenvolvedor Front-End.
+Olá! 👋 Meu nome é Jow, estou no momento cursando Análise e Desenvolvimento de Software, e atualmente estou no 2º Semestre. Neste momento estou focando meus estudos na área do Front-End com HTML, CSS e JavaScript. Estou procurando me aperfeiçoar cada vez mais, para me tornar um futuro Desenvolvedor Front-End.
 
 ## 💼 Buscando Oportunidades
 
 Atualmente, estou em busca de oportunidades na área de Front-end. Estou ansioso para aplicar e aprimorar minhas habilidades em um ambiente profissional e sobretudo ganhar experiência.
 
+<!--
 ## 🚀 Tecnologias Favoritas
 
 - HTML, CSS, JavaScript
