@@ -4,7 +4,7 @@ Olá! 👋 Meu nome é Jow, estou no momento cursando Análise e Desenvolvimento
 
 ## 💼 Buscando Oportunidades
 
-Atualmente, estou em busca de oportunidades na área de Front-end. Estou ansioso para aplicar e aprimorar minhas habilidades em um ambiente profissional e sobretudo ganhar experiência.
+Atualmente, estou em busca de oportunidades como Engenheiro de Software. Estou ansioso para aplicar e aprimorar minhas habilidades em um ambiente profissional e sobretudo ganhar experiência.
 
 <!--
 ## 🚀 Tecnologias Favoritas
